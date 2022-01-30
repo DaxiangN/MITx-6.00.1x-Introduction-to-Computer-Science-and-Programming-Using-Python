@@ -42,3 +42,5 @@ import matplotlib.pyplot as plt
 plt.rcParams['figure.dpi'] = 300
 x.hist(bins=50, figsize=(20, 15))
 plt.show()
+
+x.head(3)
