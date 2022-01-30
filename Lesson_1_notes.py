@@ -61,3 +61,9 @@ not (True and False)
 # For comparison, Python promotes both to floating point.
 5 * 2 == 5.0 * 2.0
 # Python returns True
+
+x = 6
+if x != 5:
+    print('i am here')
+else:
+    print('no I am not')
