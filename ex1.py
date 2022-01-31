@@ -7,3 +7,5 @@ print(x,y)
 
 x,y = y,x 
 print(x,y)
+
+input("The meaning of life:")
