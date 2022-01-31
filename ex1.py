@@ -9,3 +9,6 @@ x,y = y,x
 print(x,y)
 
 input("The meaning of life:")
+
+import math
+x = math.sqrt(y)
